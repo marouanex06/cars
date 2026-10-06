@@ -1,41 +1,41 @@
-# Cars — Car Rental Web Application
+# Cars — Application Web de Location de Voitures
 
-A full-stack car rental web application built as a practical web development project.
+Application web full-stack de location de voitures développée dans le cadre d’un projet pratique de développement web.
 
-## Overview
+## Présentation
 
-The application provides a web interface for browsing cars and managing rental-related information. It combines a responsive frontend with PHP-based server-side functionality.
+L’application propose une interface permettant de consulter les véhicules et de gérer les informations liées à la location. Elle combine une interface web responsive avec des fonctionnalités côté serveur développées en PHP.
 
-## Features
+## Fonctionnalités
 
-- Car listing and presentation
-- Rental information and pricing
-- Date and phone-related interactions
-- Create, update and delete operations
-- Responsive web interface
-- Server-side processing with PHP
+- Affichage et présentation des véhicules
+- Informations sur la location et les tarifs
+- Gestion des dates et des informations de contact
+- Opérations de création, modification et suppression
+- Interface web responsive
+- Traitement côté serveur avec PHP
 
-## Tech Stack
+## Technologies utilisées
 
 - HTML5
 - CSS3
 - JavaScript
 - PHP
 
-## Project Structure
+## Structure du projet
 
-`Cars Projet/` contains the main application pages, stylesheets, JavaScript files, images and PHP handlers.
+Le dossier `Cars Projet/` contient les principales pages de l’application, les feuilles de style, les fichiers JavaScript, les images et les scripts PHP.
 
-## Getting Started
+## Installation
 
-1. Clone the repository.
-2. Place the project in a PHP-enabled local server environment such as XAMPP.
-3. Start Apache.
-4. Open the application from your local server.
+1. Cloner le dépôt.
+2. Placer le projet dans un environnement serveur PHP tel que XAMPP.
+3. Démarrer Apache.
+4. Ouvrir l’application depuis le serveur local.
 
-## Author
+## Auteur
 
 **Marouane El Khayati**  
-Full Stack Web Developer
+Développeur Web Full Stack
 
 [GitHub](https://github.com/marouanex06)
